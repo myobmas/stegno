@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 25 08:56:30 2023
 
-@author: napeo
-"""
 
 import cv2
 import os
